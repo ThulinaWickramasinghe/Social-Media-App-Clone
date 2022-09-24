@@ -1,0 +1,5 @@
+GET http://localhost:8800/api/auth
+
+###
+
+POST http://localhost:8800/api/auth/register
